@@ -19,7 +19,7 @@ Note that the original unit test doesn't seem to work.
 
 ## building
 
-This fork builds with [sbt](http://www.scala-sbt.org/) 0.13. To launch the demos, run `sbt prefuse-demos/run`.
+This fork builds with [sbt](http://www.scala-sbt.org/) 0.13. To launch the demo, run `sbt packing2d-demo/run`.
 
 ## linking
 
