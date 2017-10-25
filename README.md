@@ -1,3 +1,5 @@
+forked from [here](https://github.com/papuja/2DPackingAlgorithmDemo), sbt'fied. unit test doesn't seem to work.
+
 2DPackingAlgorithmDemo
 ======================
 
