@@ -1,4 +1,11 @@
-forked from [here](https://github.com/papuja/2DPackingAlgorithmDemo), sbt'fied. unit test doesn't seem to work.
+forked from [here](https://github.com/papuja/2DPackingAlgorithmDemo).
+
+- sbt'fied
+- package is `de.sciss.packing2d`
+- sub-modules for `core` and `demo`
+- unit test doesn't seem to work
+
+Original read-me:
 
 2DPackingAlgorithmDemo
 ======================
