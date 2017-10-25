@@ -3,7 +3,7 @@ lazy val baseNameL = baseName.toLowerCase
 
 lazy val commonSettings = Seq(
   organization      := "de.sciss",
-  version           := "0.1.0-SNAPSHOT",
+  version           := "0.1.0",
   scalaVersion      := "2.12.4",
   licenses          := Seq("MIT" -> url("https://raw.githubusercontent.com/papuja/2DPackingAlgorithmDemo/master/LICENSE")),
   autoScalaLibrary  := false,   // this is just a Java project
